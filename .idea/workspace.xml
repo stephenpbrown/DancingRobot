@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0fd1c321-1a1b-4997-b38c-80e669d73dd8" name="Default" comment="" />
+    <ignored path="Dancing_Robot.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Dancing_Robot" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="DancingRobot.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DancingRobot.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4785">
+              <caret line="663" column="26" selection-start-line="663" selection-start-column="26" selection-end-line="663" selection-end-column="26" />
+              <folding>
+                <element signature="n#script#1;n#head#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#script#2;n#head#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="e#1463#1726#0" expanded="false" />
+                <element signature="e#1908#3049#0" expanded="false" />
+                <element signature="e#3244#4143#0" expanded="false" />
+                <element signature="e#4299#5199#0" expanded="false" />
+                <element signature="e#5326#5565#0" expanded="false" />
+                <element signature="e#5766#6400#0" expanded="false" />
+                <element signature="e#6476#6914#0" expanded="false" />
+                <element signature="e#7135#7621#0" expanded="false" />
+                <element signature="e#8498#9306#0" expanded="false" />
+                <element signature="e#9403#10212#0" expanded="false" />
+                <element signature="e#10279#11177#0" expanded="false" />
+                <element signature="e#11260#12158#0" expanded="false" />
+                <element signature="e#18140#18948#0" expanded="false" />
+                <element signature="e#19003#19810#0" expanded="false" />
+                <element signature="e#19837#22105#0" expanded="false" />
+                <element signature="e#23918#24058#0" expanded="false" />
+                <element signature="e#24290#24581#0" expanded="false" />
+                <element signature="e#24658#26411#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Matrix.js" />
+        <option value="$PROJECT_DIR$/DOM.js" />
+        <option value="$PROJECT_DIR$/DancingRobot.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.DancingRobot.html">
+    <configuration default="false" name="DancingRobot.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:49357/Dancing_Robot/DancingRobot.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="DOM.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="DOM.js" working-dir="$PROJECT_DIR$">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.DancingRobot.html" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.DOM.js" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.DancingRobot.html" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.DOM.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0fd1c321-1a1b-4997-b38c-80e669d73dd8" name="Default" comment="" />
+      <created>1475078415320</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1475078415320</updated>
+      <workItem from="1475078416566" duration="21000" />
+      <workItem from="1475095324807" duration="22405000" />
+      <workItem from="1475120816343" duration="320000" />
+      <workItem from="1475121150199" duration="92000" />
+      <workItem from="1475208208222" duration="39000" />
+      <workItem from="1475256543214" duration="2964000" />
+      <workItem from="1475630830517" duration="54000" />
+      <workItem from="1475692407517" duration="919000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="26814000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17672887" sideWeight="0.50476193" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32963374" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17775354" sideWeight="0.4952381" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="26" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/DancingRobot.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#script#1;n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#script#2;n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#1463#1726#0" expanded="false" />
+            <element signature="e#1908#3049#0" expanded="false" />
+            <element signature="e#3244#4143#0" expanded="false" />
+            <element signature="e#4299#5199#0" expanded="false" />
+            <element signature="e#5326#5565#0" expanded="false" />
+            <element signature="e#5766#6400#0" expanded="false" />
+            <element signature="e#6476#6914#0" expanded="false" />
+            <element signature="e#7135#7621#0" expanded="false" />
+            <element signature="e#8498#9306#0" expanded="false" />
+            <element signature="e#9403#10212#0" expanded="false" />
+            <element signature="e#10279#11177#0" expanded="false" />
+            <element signature="e#11260#12158#0" expanded="false" />
+            <element signature="e#18140#18948#0" expanded="false" />
+            <element signature="e#19003#19810#0" expanded="false" />
+            <element signature="e#19837#22105#0" expanded="false" />
+            <element signature="e#23918#24058#0" expanded="false" />
+            <element signature="e#24290#24581#0" expanded="false" />
+            <element signature="e#24658#26411#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DancingRobot.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#script#1;n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#script#2;n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#1463#1726#0" expanded="false" />
+            <element signature="e#1908#3049#0" expanded="false" />
+            <element signature="e#3244#4143#0" expanded="false" />
+            <element signature="e#4299#5199#0" expanded="false" />
+            <element signature="e#5326#5565#0" expanded="false" />
+            <element signature="e#5766#6400#0" expanded="false" />
+            <element signature="e#6476#6914#0" expanded="false" />
+            <element signature="e#7135#7621#0" expanded="false" />
+            <element signature="e#8498#9306#0" expanded="false" />
+            <element signature="e#9403#10212#0" expanded="false" />
+            <element signature="e#10279#11177#0" expanded="false" />
+            <element signature="e#11260#12158#0" expanded="false" />
+            <element signature="e#18140#18948#0" expanded="false" />
+            <element signature="e#19003#19810#0" expanded="false" />
+            <element signature="e#19837#22105#0" expanded="false" />
+            <element signature="e#23918#24058#0" expanded="false" />
+            <element signature="e#24290#24581#0" expanded="false" />
+            <element signature="e#24658#26411#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DancingRobot.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#script#1;n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#script#2;n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#1463#1726#0" expanded="false" />
+            <element signature="e#1908#3049#0" expanded="false" />
+            <element signature="e#3244#4143#0" expanded="false" />
+            <element signature="e#4299#5199#0" expanded="false" />
+            <element signature="e#5326#5565#0" expanded="false" />
+            <element signature="e#5766#6400#0" expanded="false" />
+            <element signature="e#6476#6914#0" expanded="false" />
+            <element signature="e#7135#7621#0" expanded="false" />
+            <element signature="e#8498#9306#0" expanded="false" />
+            <element signature="e#9403#10212#0" expanded="false" />
+            <element signature="e#10279#11177#0" expanded="false" />
+            <element signature="e#11260#12158#0" expanded="false" />
+            <element signature="e#18140#18948#0" expanded="false" />
+            <element signature="e#19003#19810#0" expanded="false" />
+            <element signature="e#19837#22105#0" expanded="false" />
+            <element signature="e#23918#24058#0" expanded="false" />
+            <element signature="e#24290#24581#0" expanded="false" />
+            <element signature="e#24658#26411#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DancingRobot.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#script#1;n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#script#2;n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#1463#1726#0" expanded="false" />
+            <element signature="e#1908#3049#0" expanded="false" />
+            <element signature="e#3244#4143#0" expanded="false" />
+            <element signature="e#4299#5199#0" expanded="false" />
+            <element signature="e#5326#5565#0" expanded="false" />
+            <element signature="e#5766#6400#0" expanded="false" />
+            <element signature="e#6476#6914#0" expanded="false" />
+            <element signature="e#7135#7621#0" expanded="false" />
+            <element signature="e#8498#9306#0" expanded="false" />
+            <element signature="e#9403#10212#0" expanded="false" />
+            <element signature="e#10279#11177#0" expanded="false" />
+            <element signature="e#11260#12158#0" expanded="false" />
+            <element signature="e#18140#18948#0" expanded="false" />
+            <element signature="e#19003#19810#0" expanded="false" />
+            <element signature="e#19837#22105#0" expanded="false" />
+            <element signature="e#23918#24058#0" expanded="false" />
+            <element signature="e#24290#24581#0" expanded="false" />
+            <element signature="e#24658#26411#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DancingRobot.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#script#1;n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#script#2;n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#1463#1726#0" expanded="false" />
+            <element signature="e#1908#3049#0" expanded="false" />
+            <element signature="e#3244#4143#0" expanded="false" />
+            <element signature="e#4299#5199#0" expanded="false" />
+            <element signature="e#5326#5565#0" expanded="false" />
+            <element signature="e#5766#6400#0" expanded="false" />
+            <element signature="e#6476#6914#0" expanded="false" />
+            <element signature="e#7135#7621#0" expanded="false" />
+            <element signature="e#8498#9306#0" expanded="false" />
+            <element signature="e#9403#10212#0" expanded="false" />
+            <element signature="e#10279#11177#0" expanded="false" />
+            <element signature="e#11260#12158#0" expanded="false" />
+            <element signature="e#18140#18948#0" expanded="false" />
+            <element signature="e#19003#19810#0" expanded="false" />
+            <element signature="e#19837#22105#0" expanded="false" />
+            <element signature="e#23918#24058#0" expanded="false" />
+            <element signature="e#24290#24581#0" expanded="false" />
+            <element signature="e#24658#26411#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DancingRobot.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#script#1;n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#script#2;n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#1463#1726#0" expanded="false" />
+            <element signature="e#1908#3049#0" expanded="false" />
+            <element signature="e#3244#4143#0" expanded="false" />
+            <element signature="e#4299#5199#0" expanded="false" />
+            <element signature="e#5326#5565#0" expanded="false" />
+            <element signature="e#5766#6400#0" expanded="false" />
+            <element signature="e#6476#6914#0" expanded="false" />
+            <element signature="e#7135#7621#0" expanded="false" />
+            <element signature="e#8498#9306#0" expanded="false" />
+            <element signature="e#9403#10212#0" expanded="false" />
+            <element signature="e#10279#11177#0" expanded="false" />
+            <element signature="e#11260#12158#0" expanded="false" />
+            <element signature="e#18140#18948#0" expanded="false" />
+            <element signature="e#19003#19810#0" expanded="false" />
+            <element signature="e#19837#22105#0" expanded="false" />
+            <element signature="e#23918#24058#0" expanded="false" />
+            <element signature="e#24290#24581#0" expanded="false" />
+            <element signature="e#24658#26411#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Matrix.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3332">
+          <caret line="196" column="0" selection-start-line="196" selection-start-column="0" selection-end-line="196" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DOM.js" />
+    <entry file="file://$PROJECT_DIR$/DancingRobot.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4785">
+          <caret line="663" column="26" selection-start-line="663" selection-start-column="26" selection-end-line="663" selection-end-column="26" />
+          <folding>
+            <element signature="n#script#1;n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#script#2;n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#1463#1726#0" expanded="false" />
+            <element signature="e#1908#3049#0" expanded="false" />
+            <element signature="e#3244#4143#0" expanded="false" />
+            <element signature="e#4299#5199#0" expanded="false" />
+            <element signature="e#5326#5565#0" expanded="false" />
+            <element signature="e#5766#6400#0" expanded="false" />
+            <element signature="e#6476#6914#0" expanded="false" />
+            <element signature="e#7135#7621#0" expanded="false" />
+            <element signature="e#8498#9306#0" expanded="false" />
+            <element signature="e#9403#10212#0" expanded="false" />
+            <element signature="e#10279#11177#0" expanded="false" />
+            <element signature="e#11260#12158#0" expanded="false" />
+            <element signature="e#18140#18948#0" expanded="false" />
+            <element signature="e#19003#19810#0" expanded="false" />
+            <element signature="e#19837#22105#0" expanded="false" />
+            <element signature="e#23918#24058#0" expanded="false" />
+            <element signature="e#24290#24581#0" expanded="false" />
+            <element signature="e#24658#26411#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
